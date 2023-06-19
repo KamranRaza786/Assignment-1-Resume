@@ -1,8 +1,8 @@
 h1{
-    color: blue;
+    color: rgb(200, 255, 0);
 }
 
 p{
-    border: 1px solid green;
+    border: 1px solid rgb(6, 70, 6);
     background-color: yellow;
 }

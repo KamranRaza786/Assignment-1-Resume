@@ -26,7 +26,7 @@ nav {
 
 /* Style the list inside the menu */
 nav ul {
-  list-style-type: circle;
+  list-style-type: square;
   padding: 0;
 }
 

@@ -8,7 +8,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #a0c20b;
+  background-color: #455305;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -47,7 +47,7 @@ section::after {
 
 /* Style the footer */
 footer {
-  background-color: #a0c20b;
+  background-color: #455305;
   padding: 10px;
   text-align: center;
   color: white;
@@ -58,4 +58,11 @@ footer {
   nav, article {
     width: 100%;
     height: auto;
+  }
+
+  h1{
+    font-style: oblique;
+    font-family:verdana;
+    text-align:center
+    
   }
